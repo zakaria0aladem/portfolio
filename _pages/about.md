@@ -13,7 +13,7 @@ I’m a Robotics & Mechatronics Engineer focusing on underwater robots, embedded
 
 📽️ I enjoy guiding others into the world of engineering, robotics, and technical leadership through workshops, mentoring, and community projects.
 
-What I Do
+# What I Do
 
 I currently work across robotics, embedded systems, and applied AI, building deployable systems.
 Recently, I developed an Industry 4.0 automated inspection system at InJo4.0, integrating YOLOv8, SCADA pipelines, and edge IoT devices. I also worked with Siemens PLCs, Doosan cobots, and industrial sensors to create real production-ready prototypes.
@@ -22,7 +22,7 @@ Before that, I contributed at Orange Jordan, helping build a 5-DOF underwater RO
 
 As Vice Chairman of IEEE RAS, I organized workshops, competitions, and student mentorship programs, while creating a gamified member-engagement system that empowered over a hundred projects. I also contributed to the Spectrum Team, supporting technical, academic, and cultural initiatives for students.
 
-Hands-On Projects & Engineering Work
+# Hands-On Projects & Engineering Work
 
 I love turning ideas into working machines. Some highlights include:
 
@@ -36,7 +36,7 @@ Object detection and vision-based AI systems for industrial and research applica
 
 I focus on system reliability, integration, and performance in real-world conditions—not just theory.
 
-Community & Mentorship
+# Community & Mentorship
 
 I’ve taught, mentored, and supported numerous robotics and engineering projects through IEEE RAS, Spectrum Team, and university clubs.
 I deliver hands-on sessions covering robotics, embedded systems, CAD, control, and AI fundamentals.
