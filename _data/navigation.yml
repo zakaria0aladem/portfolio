@@ -11,7 +11,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-    - title: "CV"
+  - title: "CV"
     url: /files/ZAKARIA-Master-CV.pdf
     
   - title: "Publications"
