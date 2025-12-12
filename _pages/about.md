@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alsalamu Alaykom   السلام عليكم"
+title: "Alsalamu Alaykom                      السلام عليكم"
 author_profile: true
 redirect_from: 
   - /about/
