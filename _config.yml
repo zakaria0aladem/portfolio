@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "ZAKARIA.jpg"
-  name             : "Zakaria Samer Zakaria Aladem"
+  name             : "Zakaria Samer Aladem"
   pronouns         : # example: "she/her"  
   bio              : "Mechatronics Engineer with an interest in robotics and research and development. Strong communication skills, self-motivation and fast learner. 
 Committed to expanding knowledge and contributing to the field."
-  location         : "AMMAN|JOR"
+  location         : "Amman, Jordan"
   #employer         : "Red Brick University"
   uri              : # URL
   email            : "zakarialadem2@gmail.com" 
@@ -36,13 +36,13 @@ Committed to expanding knowledge and contributing to the field."
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+ # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+#  orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -58,7 +58,7 @@ Committed to expanding knowledge and contributing to the field."
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+#  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
