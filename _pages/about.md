@@ -7,32 +7,43 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+I’m a Robotics & Mechatronics Engineer focusing on underwater robots, embedded systems, and practical machine intelligence.
 
-I’m a robotics engineer who enjoys building machines that actually work in the real world. My approach is simple: understand the problem deeply, design carefully, build cleanly, and test until the system behaves the way it should. I like working across the entire stack—mechanical design, electronics, control, and AI—because real robotics demands all of them working together.
+🔬 I’m passionate about robotics, system integration, industrial automation, and real-world AI, especially where hardware, sensing, and autonomy intersect.
 
-# How I Started
+📽️ I enjoy guiding others into the world of engineering, robotics, and technical leadership through workshops, mentoring, and community projects.
 
-I studied Mechatronics Engineering and quickly realized that robotics was where everything clicked for me. I spent most of my time outside the classroom running workshops, leading student teams, and helping build more projects than I can count. Turning theory into working systems became my way of learning, improving, and teaching others.
+What I Do
 
-# What I Build
+I currently work across robotics, embedded systems, and applied AI, building deployable systems.
+Recently, I developed an Industry 4.0 automated inspection system at InJo4.0, integrating YOLOv8, SCADA pipelines, and edge IoT devices. I also worked with Siemens PLCs, Doosan cobots, and industrial sensors to create real production-ready prototypes.
 
-Over the years, I’ve worked on robots in the air, under the sea, and on the factory floor. Some highlights:
+Before that, I contributed at Orange Jordan, helping build a 5-DOF underwater ROV. I designed and assembled the waterproof electronics housing, integrated thrusters and ESCs, tuned the Pixhawk/ArduSub stack, and supported 3D printing and fabrication tasks.
 
-* An underwater ROV with a Pixhawk–Raspberry Pi architecture, real-time video, and vision-based hazard detection.
-* A production-line inspection system using YOLOv8 connected directly to industrial SCADA through MQTT and Node-RED.
-* A PET recycling machine designed from scratch, combining electromechanics, PID temperature control, and sustainable engineering.
+As Vice Chairman of IEEE RAS, I organized workshops, competitions, and student mentorship programs, while creating a gamified member-engagement system that empowered over a hundred projects. I also contributed to the Spectrum Team, supporting technical, academic, and cultural initiatives for students.
 
-Each project strengthened a different part of my toolkit: control theory, ROS, embedded programming, CAD, electronics, and system integration.
+Hands-On Projects & Engineering Work
 
-# Industry Experience
+I love turning ideas into working machines. Some highlights include:
 
-I’ve worked with collaborative robots, PLCs, industrial sensors, computer vision systems, and a lot of messy real-world constraints. At Injo4.0, I handled automation tasks across robotics, IoT, and vision inspection. At Orange Jordan, I helped build and waterproof underwater drones while also gaining hands-on fabrication experience. These roles taught me how real engineering teams operate and how to make systems that are maintainable, practical, and reliable.
+Multi-thruster ROV control stacks (Pixhawk + ArduSub + Raspberry Pi)
 
-# How I Think About Robotics
+Real-time production inspection pipelines using YOLOv8 integrated with SCADA/MQTT
 
-Robotics is not just circuits or code. It’s a constant balancing act between physics, algorithms, and design. I enjoy the challenge of bringing all of these layers together into one coherent system. My interests sit heavily in autonomous systems, intelligent control, and merging AI with real-world actuation.
+Modular electromechanical systems designed for easy repair and extension
 
+Object detection and vision-based AI systems for industrial and research applications
+
+I focus on system reliability, integration, and performance in real-world conditions—not just theory.
+
+Community & Mentorship
+
+I’ve taught, mentored, and supported numerous robotics and engineering projects through IEEE RAS, Spectrum Team, and university clubs.
+I deliver hands-on sessions covering robotics, embedded systems, CAD, control, and AI fundamentals.
+
+I am also building a structured Python course for beginners with a project-based approach to problem-solving and practical learning.
+
+My goal is to contribute to the next generation of Arab engineers, helping them innovate and build strong, practical skills in robotics and technology.
 # Where I’m Going
 
 My goal is to specialize further in robotics, especially in autonomy and marine systems, and eventually build research and development initiatives that push technology forward in the region. I want to work on robots that make a measurable impact, whether underwater, in industry, or in complex unstructured environments.
