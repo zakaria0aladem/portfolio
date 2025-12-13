@@ -17,3 +17,8 @@ Developed a PET-Machine for recycling plastic bottles into 3D printer filament, 
 
 kjsgdus;ikadgk
 aklsjgfdpi;aofgiasjk;hdgfk;ajsdgf
+
+![PET Machine]({{ site.baseurl }}/images/PET1.png)
+
+s'rl;kthbwpoirutheawrptea4riupt
+sdkjhbtsdkjigb
