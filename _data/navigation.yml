@@ -12,7 +12,7 @@ main:
     url: /portfolio/
 
   - title: "CV"
-    url: /files/ZAKARIA-Master-CV.pdf
+    url: https://drive.google.com/file/d/1DyIaihcludMCBKN8XtnCr5OWGpLc0Fp0/view?usp=drive_link
     
   - title: "Publications"
     url: /publications/
