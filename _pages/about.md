@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Robotics & Mechatronics Engineer focusing on underwater robots, embedded systems, and practical machine intelligence.
+I’m a Robotics & Mechatronics Engineer focusing on underwater robots, embedded systems, and practical machine intelligence. ![hello](/images/PET1.png)
 
 🔬 I’m passionate about robotics, system integration, industrial automation, and real-world AI, especially where hardware, sensing, and autonomy intersect.
 
