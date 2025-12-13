@@ -9,7 +9,7 @@
 
 main:
   - title: "Portfolio"
-    url: /Portfolio/
+    url: /portfolio/
 
   - title: "CV"
     url: https://drive.google.com/file/d/1DyIaihcludMCBKN8XtnCr5OWGpLc0Fp0/view?usp=drive_link
