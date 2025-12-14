@@ -10,7 +10,7 @@ header:
 <img src="{{ site.baseurl }}/images/Defect-Detection.png" width="500">
 
 
-![Link to video]{https://www.linkedin.com/posts/zakaria-aladem-7b1659224_%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D9%8A-%D9%81%D9%8A-injo40-%D8%B9%D9%85%D9%84%D8%AA-%D8%B9%D9%84%D9%89-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%8A%D8%AC%D9%85%D8%B9-activity-7393681430783975424-EyMQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADhWXjUBoSEkF3AIS0oyOwbEJ9wNAyvrbsA}
+[Link to video](https://www.linkedin.com/posts/zakaria-aladem-7b1659224_%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D9%8A-%D9%81%D9%8A-injo40-%D8%B9%D9%85%D9%84%D8%AA-%D8%B9%D9%84%D9%89-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%8A%D8%AC%D9%85%D8%B9-activity-7393681430783975424-EyMQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADhWXjUBoSEkF3AIS0oyOwbEJ9wNAyvrbsA)
 
 
 
