@@ -2,10 +2,10 @@
 title: "PET-Machine"
 collection: portfolio
 excerpt: "Developed a PET-Machine for recycling plastic bottles into 3D printer filament with PID-controlled heating."
+collection: portfolio
 header:
   image: /images/500x300.png
   teaser: /images/500x300.png
-collection: portfolio
 ---
 <img src="{{ site.baseurl }}/images/PET2.png">
 
