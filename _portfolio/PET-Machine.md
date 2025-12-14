@@ -7,7 +7,7 @@ header:
   teaser: /images/500x300.png
 collection: portfolio
 ---
-![PET]({{ site.baseurl }}/images/PET2.png)
+![PET]/images/PET2.png
 
 
 <img src="{{ site.baseurl }}/images/PET2.png">
