@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I’m a Robotics & Mechatronics Engineer focusing on robotics, embedded systems, and practical machine intelligence. 
+
 🔬 I’m passionate about robotics, system integration, industrial automation, and real-world AI, especially where hardware, sensing, and autonomy intersect.
 
 I enjoy guiding others into the world of engineering, robotics, and technical leadership through workshops, mentoring, and community projects.
