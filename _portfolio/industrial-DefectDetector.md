@@ -20,4 +20,4 @@ The challenge was clear:
 To solve this, I built a Defect Detection System powered by YOLOv8. The system captures an image after the robot completes assembly, identifies the product based on each product component (top, bolt, and bottom), and compares the configuration with the expected setup in node red.
 If the product meets specifications, it automatically sends an “Accept” command; otherwise, it flags it as “Reject.”
  This communication happens through MQTT, ensuring seamless real-time interaction between the AI system and the production line robot.
-×
+
