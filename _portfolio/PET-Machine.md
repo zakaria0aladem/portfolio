@@ -8,6 +8,7 @@ header:
 
 
 <img src="{{ site.baseurl }}/images/PET2.png">
+<img src="{{ site.baseurl }}/images/petPCB.jpg">
 <br>Developed a PET-Machine for recycling plastic bottles into 3D printer filament, implementing a PID-controlled heating system to maintain precise extrusion temperatures.
 
 
