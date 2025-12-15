@@ -44,7 +44,7 @@ L298N motor driver<br>
 
 PWM speed control using ESP32 hardware timers<br><br>
 
-Sensing<br>
+### Sensing<br>
 
 10 IR line sensors<br>
   • QTR-8RC array (main)<br>
