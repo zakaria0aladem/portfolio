@@ -7,7 +7,7 @@ header:
 ---
 
 
-<img src="{{ site.baseurl }}/images/lineFollower.jpg" width="500">
+<img src="{{ site.baseurl }}/images/lineFollower.jpg" width="300">
 <br>High-speed autonomous line follower robot using PID control on ESP32, designed and tested in a large-scale university competition.<br>
 
 <br>Robotics • Embedded Systems • Control • PID • ESP32
