@@ -17,11 +17,6 @@ I enjoy guiding others into the world of engineering, robotics, and technical le
 # What I Do
 
 I currently work across robotics, embedded systems, and applied AI, building deployable systems.
-Recently, I developed an Industry 4.0 automated inspection system at InJo4.0, integrating YOLOv8, SCADA pipelines, and edge IoT devices. I also worked with Siemens PLCs, Doosan cobots, and industrial sensors to create real production-ready prototypes.
-
-Before that, I contributed at Orange Jordan, helping build a 5-DOF underwater ROV. I designed and assembled the waterproof electronics housing, integrated thrusters and ESCs, tuned the Pixhawk/ArduSub stack, and supported 3D printing and fabrication tasks.
-
-As Vice Chairman of IEEE RAS, I organized workshops, competitions, and student mentorship programs, while creating a gamified member-engagement system that empowered over a hundred projects. I also contributed to the Spectrum Team, supporting technical, academic, and cultural initiatives for students.
 
 # Hands-On Projects & Engineering Work
 
@@ -37,12 +32,11 @@ Object detection and vision-based AI systems for industrial and research applica
 
 I focus on system reliability, integration, and performance in real-world conditions—not just theory.
 
-# Community & Mentorship
+# Community Volunteering & Mentorship
 
-I’ve taught, mentored, and supported numerous robotics and engineering projects through IEEE RAS, Spectrum Team, and university clubs.
+I’ve taught, mentored, and supported numerous robotics and engineering projects through university clubs like IEEE RAS, Spectrum Team.
 I deliver hands-on sessions covering robotics, embedded systems, CAD, control, and AI fundamentals.
 
-I am also building a structured Python course for beginners with a project-based approach to problem-solving and practical learning.
 
 My goal is to contribute to the next generation of Arab engineers, helping them innovate and build strong, practical skills in robotics and technology.
 # Where I’m Going
