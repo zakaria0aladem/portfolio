@@ -7,37 +7,25 @@ header:
 ---
 
 
-<img src="{{ site.baseurl }}/images/lineFollower.jpg">
+<img src="{{ site.baseurl }}/images/lineFollower.jpg" width="500">
 <br>High-speed autonomous line follower robot using PID control on ESP32, designed and tested in a large-scale university competition.<br>
 
 <br>Robotics • Embedded Systems • Control • PID • ESP32
 
-Robotics • Embedded Systems • Control • PID • ESP32<br><br>
 
-Overview<br>
+# Overview<br>
 
 Designed and built a high-speed autonomous line follower robot for the Line Follower 2025 Competition, organized by ELCoM Team – Hashemite University.<br>
 The robot competed in a large-scale event with ~50 teams, undergoing multiple elimination rounds over a 12-hour competition.<br><br>
 
-Competition Context<br>
 
-Competition duration: Full day (8:30 AM – 9:00 PM)<br>
-
-Teams: ~50 teams<br>
-
-Format:<br>
-  • 4 rounds per team<br>
-  • 4 minutes per run<br>
-  • Penalty for track exit<br>
-  • Progressive elimination (50 → 22 → 11 → Top 7)<br>
-
-Robot constraints:<br>
+## Robot constraints:<br>
   • Max size: 25 × 25 cm<br>
   • No AI / vision, classic control only<br><br>
 
-Robot Design<br><br>
+## Robot Design<br><br>
 
-Mechanical<br>
+### Mechanical<br>
 
 Maximum length ~24 cm (near competition limit)<br>
 
@@ -48,7 +36,7 @@ Rear-biased weight distribution to reduce rotational inertia<br>
 Tradeoff: long body reduced tight-turn performance<br>
   → mitigated by adding side sensors<br><br>
 
-Drive System<br>
+### Drive System<br>
 
 Differential drive (2 DC motors)<br>
 
@@ -65,7 +53,7 @@ Sensing<br>
 Digital thresholding used instead of analog readings<br>
   • Analog values proved unstable under lighting variation<br><br>
 
-Electronics & Power<br>
+### Electronics & Power<br>
 
 ESP32 microcontroller<br>
 
@@ -74,7 +62,7 @@ Power system:<br>
   • Step-down regulator to 3.3V ESP32 rail<br>
   • Purpose: bypass ESP32 internal regulator overheating under load<br><br>
 
-Control Strategy<br><br>
+### Control Strategy<br><br>
 
 Line Detection<br>
 
@@ -95,7 +83,7 @@ Parameters:<br>
   • Ki = 0.0001<br>
   • Kd = 60<br><br>
 
-Motion Logic<br>
+### Motion Logic<br>
 
 Normal operation: PID-based differential speed control<br>
 
@@ -135,7 +123,7 @@ Reinforced importance of:<br>
   • Clean power design on ESP32-based systems<br>
   • Robust line-loss recovery logic<br><br>
 
-Technologies Used<br>
+## Technologies Used<br>
 
 ESP32<br>
 
@@ -147,7 +135,7 @@ PWM Motor Control<br>
 
 Embedded C++ (Arduino)<br><br>
 
-My Role<br>
+## My Role<br>
 
 Mechanical layout decisions<br>
 
