@@ -60,12 +60,13 @@ Performed bench testing of power distribution, motor control, communication, and
 - Edge AI: Real-time inference performed locally on the Raspberry Pi 4 to minimize latency.<br>
 - Visual Enhancement: High-intensity LEDs integrated for low-light deep-sea visibility.<br>
 - Communication: Tethered Ethernet connection for low-latency H.264 video streaming and telemetry to QGroundControl.<br>
+<img src="{{ site.baseurl }}/images/rovVision.png" width="300"><br>
 <br>
 ## Control & Ground Station<br>
 - Software Stack: BlueOS (onboard) paired with QGroundControl (surface).<br>
 - Input: PS4 Controller mapped for intuitive manual navigation.<br>
 - Sensors: MS5837 depth sensor, MPU6000 IMU, and magnetometer for stabilized "Depth Hold" and "Stabilize" modes.<br>
-<img src="{{ site.baseurl }}/images/rovControl.jpg" width="300"><br>
+<img src="{{ site.baseurl }}/images/rovControl.png" width="300"><br>
 <br>
 ## Results & Specifications<br>
 - Max Depth: 85 meters.<br>
