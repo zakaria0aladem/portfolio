@@ -9,20 +9,22 @@ header:
 <img src="{{ site.baseurl }}/images/rov.jpg">
 <br>End-to-end design and testing of a 5-DOF underwater ROV based on the CPS5 desgin
 
-5-DOF Underwater ROV (CPS5-Based)<br>
+# Advanced 5-Degree-of-Freedom Remotely Operated Vehicle (ROV) with AI-Powered Hazard Detection<br>
 
-Underwater Robotics • Mechatronics • Systems Integration<br><br>
+<br>
+Advanced 5-degree-of-freedom Remotely Operated Vehicle (ROV) with AI-powered hazard detection, designed for underwater exploration and marine research up to 85m depth.<br>
+<br>
+
+Robotics • Mechatronics • Computer Vision • Embedded Systems • AI • Underwater Engineering<br>
+<br>
 
 Built a 5-DOF underwater ROV based on the CPS5 design, taking ownership of the full engineering workflow. Adapted the mechanical structure in SolidWorks, integrated the electronics stack (Pixhawk, Raspberry Pi, ESCs, motors, sensors), and designed custom wiring and waterproof housings.<br><br>
 <img src="{{ site.baseurl }}/images/rov-electronics pipe.jpg" width="300"><br>
 Performed bench testing of power distribution, motor control, communication, and sensors before moving to pool testing. Diagnosed and resolved issues including leaks, unstable buoyancy, electrical noise, and motor calibration through iterative design improvements such as sealing upgrades, wiring reorganization, ferrite filtering, and control parameter tuning.<br><br>
 
-# Advanced 5-Degree-of-Freedom Remotely Operated Vehicle (ROV) with AI-Powered Hazard Detection<br>
-<br>
-Advanced 5-degree-of-freedom Remotely Operated Vehicle (ROV) with AI-powered hazard detection, designed for underwater exploration and marine research up to 85m depth.<br>
-<br>
-Robotics • Mechatronics • Computer Vision • Embedded Systems • AI • Underwater Engineering<br>
-<br>
+
+
+
 ## Overview<br>
 Developed a sophisticated underwater drone (ROV) capable of precise 5-DOF navigation and real-time object detection. The project, titled CPS5, was engineered at Al-Balqa' Applied University to address challenges in traditional ROVs such as limited maneuverability and communication delays.<br>
 <br>
