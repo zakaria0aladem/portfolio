@@ -7,9 +7,9 @@ header:
 ---
 
 
-<img src="{{ site.baseurl }}/images/PET2.png"><img src="{{ site.baseurl }}/images/cycloida-gearbox2.png" width ="300">
+<img src="{{ site.baseurl }}/images/cycloida-gearbox2.png" width ="300">
 
-<br>Designed and modeled a cycloidal drive with high reduction ratio and low backlash using SolidWorks. Implemented parametric epitrochoid profiles and a double-disc configuration to ensure smooth, vibration-free operation for precision robotic applications.
+
 <br>Mechanical Design • SolidWorks • Robotics • Power Transmission • Kinematics<br>
 # High-Precision Cycloidal Gearbox Design and Kinematic Analysis using SolidWorks<br>
 <br>
