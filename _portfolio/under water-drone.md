@@ -9,27 +9,18 @@ header:
 <img src="{{ site.baseurl }}/images/rov.jpg">
 <br>End-to-end design and testing of a 5-DOF underwater ROV based on the CPS5 desgin
 
-# Advanced 5-Degree-of-Freedom Remotely Operated Vehicle (ROV) with AI-Powered Hazard Detection<br>
-
-<br>
-Advanced 5-degree-of-freedom Remotely Operated Vehicle (ROV) with AI-powered hazard detection, designed for underwater exploration and marine research up to 85m depth.<br>
-<br>
-
 Robotics • Mechatronics • Computer Vision • Embedded Systems • AI • Underwater Engineering<br>
 <br>
 
-Built a 5-DOF underwater ROV based on the CPS5 design, taking ownership of the full engineering workflow. Adapted the mechanical structure in SolidWorks, integrated the electronics stack (Pixhawk, Raspberry Pi, ESCs, motors, sensors), and designed custom wiring and waterproof housings.<br><br>
-<img src="{{ site.baseurl }}/images/rov-electronics pipe.jpg" width="300"><br>
-Performed bench testing of power distribution, motor control, communication, and sensors before moving to pool testing. Diagnosed and resolved issues including leaks, unstable buoyancy, electrical noise, and motor calibration through iterative design improvements such as sealing upgrades, wiring reorganization, ferrite filtering, and control parameter tuning.<br><br>
-
-
+# Advanced 5-Degree-of-Freedom Remotely Operated Vehicle (ROV) with AI-Powered Hazard Detection<br>
 
 
 ## Overview<br>
-Developed a sophisticated underwater drone (ROV) capable of precise 5-DOF navigation and real-time object detection. The project, titled CPS5, was engineered at Al-Balqa' Applied University to address challenges in traditional ROVs such as limited maneuverability and communication delays.<br>
-<br>
-The system features a unique semi-flooded design where only critical electronics are sealed in a pressure-resistant housing, improving stability and reducing buoyancy issues.<br>
-<br>
+Built a 5-DOF underwater ROV based on the CPS5 design, taking ownership of the full engineering workflow. Adapted the mechanical structure in SolidWorks, integrated the electronics stack (Pixhawk, Raspberry Pi, ESCs, motors, sensors), and designed custom wiring and waterproof housings.<br><br>
+
+Performed bench testing of power distribution, motor control, communication, and sensors before moving to pool testing. Diagnosed and resolved issues including leaks, unstable buoyancy, electrical noise, and motor calibration through iterative design improvements such as sealing upgrades, wiring reorganization, ferrite filtering, and control parameter tuning.<br><br>
+<img src="{{ site.baseurl }}/images/rov-electronics pipe.jpg" width="300"><br>
+
 ## Project Objectives<br>
 - Achieve stable movement with 5 brushless DC motors.<br>
 - Integrate a dual-controller architecture (Raspberry Pi 4 & Pixhawk).<br>
@@ -44,6 +35,8 @@ The system features a unique semi-flooded design where only critical electronics
 - Calculated Safety Factor: ~11.7 at target depth.<br>
 - Waterproofing via dual O-ring grooves and epoxy-sealed cable feedthroughs.<br>
 - Hydrodynamic optimization resulting in a maximum velocity of 1.5 m/s.<br>
+<img src="{{ site.baseurl }}/images/rovStess.jpg" width="300"><br>
+
 <br>
 ### Propulsion & Maneuverability<br>
 - 5-Degree-of-Freedom thrust vectoring.<br>
@@ -72,6 +65,7 @@ The system features a unique semi-flooded design where only critical electronics
 - Software Stack: BlueOS (onboard) paired with QGroundControl (surface).<br>
 - Input: PS4 Controller mapped for intuitive manual navigation.<br>
 - Sensors: MS5837 depth sensor, MPU6000 IMU, and magnetometer for stabilized "Depth Hold" and "Stabilize" modes.<br>
+<img src="{{ site.baseurl }}/images/rovControl.jpg" width="300"><br>
 <br>
 ## Results & Specifications<br>
 - Max Depth: 85 meters.<br>
