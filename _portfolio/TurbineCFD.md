@@ -6,10 +6,10 @@ header:
   teaser: /images/500x300.png
 ---
 
-<img src="{{ site.baseurl }}/images/windCFD.jpg">
+<img src="{{ site.baseurl }}/images/windCFD.jpg" width ="600">
 <br>Wind Turbine Aerodynamic Design and CFD Analysis<br>
-<br>
-Mechanical Engineering • Renewable Energy • CFD • Fluid Mechanics • CAD Modeling<br>
+
+<br>Mechanical Engineering • Renewable Energy • CFD • Fluid Mechanics • CAD Modeling<br>
 <br>
 ## Overview<br>
 Designed and simulated a specialized wind turbine assembly to evaluate aerodynamic performance and torque generation. The project utilized Computational Fluid Dynamics (CFD) to validate the design’s effectiveness in converting kinetic wind energy into mechanical power.<br>
