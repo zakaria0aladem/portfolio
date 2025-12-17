@@ -35,7 +35,7 @@ Performed bench testing of power distribution, motor control, communication, and
 - Calculated Safety Factor: ~11.7 at target depth.<br>
 - Waterproofing via dual O-ring grooves and epoxy-sealed cable feedthroughs.<br>
 - Hydrodynamic optimization resulting in a maximum velocity of 1.5 m/s.<br>
-<img src="{{ site.baseurl }}/images/rovStess.jpg" width="300"><br>
+<img src="{{ site.baseurl }}/images/rovStress.jpg" width="300"><br>
 
 <br>
 ### Propulsion & Maneuverability<br>
@@ -45,7 +45,7 @@ Performed bench testing of power distribution, motor control, communication, and
 - Custom 3D-printed propellers (60mm horizontal, 50mm vertical) optimized for torque in dense water.<br>
 <br>
 ### Electrical & Power Architecture<br>
-<br>
+
 #### Dual-Controller System<br>
 - Raspberry Pi 4: Handles high-level tasks, BlueOS, and AI vision processing.<br>
 - Pixhawk (ArduSub): Manages low-level flight control, sensor fusion (IMU/Barometer), and PWM motor signals.<br>
@@ -66,7 +66,7 @@ Performed bench testing of power distribution, motor control, communication, and
 - Software Stack: BlueOS (onboard) paired with QGroundControl (surface).<br>
 - Input: PS4 Controller mapped for intuitive manual navigation.<br>
 - Sensors: MS5837 depth sensor, MPU6000 IMU, and magnetometer for stabilized "Depth Hold" and "Stabilize" modes.<br>
-<img src="{{ site.baseurl }}/images/rovControl.png" width="300"><br>
+<img src="{{ site.baseurl }}/images/rovControl.png" width="500"><br>
 <br>
 ## Results & Specifications<br>
 - Max Depth: 85 meters.<br>
