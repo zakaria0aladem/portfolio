@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Robotics & Mechatronics Engineer focusing on robotics, embedded systems, and practical machine intelligence. 
+I’m a Robotics & Mechatronics Engineer focusing on robotics, Physical AI, and practical machine intelligence. 
 
 
-🔬 I’m passionate about robotics, system integration, industrial automation, and real-world AI, especially where hardware, sensing, and autonomy intersect.
+I’m passionate about robotics, system integration, industrial automation, and real-world AI, especially where hardware, sensing, and autonomy intersect.
 
 I enjoy guiding others into the world of engineering, robotics, and technical leadership through workshops, mentoring, and community projects.
 
 # What I Do
 
-I currently work across robotics, embedded systems, and applied AI, building deployable systems.
+I am currently doing a masters in mechatronics engineering in the American University in Sharjah with a focus on Robotics, Control and Physics Informed AI.
 
 # Hands-On Projects & Engineering Work
 
